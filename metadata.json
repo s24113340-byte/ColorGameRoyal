@@ -1,0 +1,7 @@
+{
+  "name": "Color Game Royale",
+  "description": "An Arcade RPG transformation of the traditional Night-Market Color Game. Battle Umbra using the power of the Chromatic Kingdom!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
